@@ -20,7 +20,7 @@ This project develops a comprehensive solution for brain tumor analysis by combi
 
 ### Model Architecture
 
-![Architecture](net.jpg)
+![Architecture](images/net.png)
 
 #### 1. Classification Pipeline
 - **CNN Architecture**: Custom convolutional neural network for binary classification
